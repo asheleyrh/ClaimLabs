@@ -1,0 +1,7 @@
+C:\Users\Asheley\source\repos\homework\HWEvenOdd\HWEvenOdd\bin\Debug\HWEvenOdd.exe.config
+C:\Users\Asheley\source\repos\homework\HWEvenOdd\HWEvenOdd\bin\Debug\HWEvenOdd.exe
+C:\Users\Asheley\source\repos\homework\HWEvenOdd\HWEvenOdd\bin\Debug\HWEvenOdd.pdb
+C:\Users\Asheley\source\repos\homework\HWEvenOdd\HWEvenOdd\obj\Debug\HWEvenOdd.csprojAssemblyReference.cache
+C:\Users\Asheley\source\repos\homework\HWEvenOdd\HWEvenOdd\obj\Debug\HWEvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Asheley\source\repos\homework\HWEvenOdd\HWEvenOdd\obj\Debug\HWEvenOdd.exe
+C:\Users\Asheley\source\repos\homework\HWEvenOdd\HWEvenOdd\obj\Debug\HWEvenOdd.pdb

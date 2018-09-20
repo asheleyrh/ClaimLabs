@@ -1,0 +1,7 @@
+C:\Users\Asheley\source\repos\homework\HWOpp\HWOpp\bin\Debug\HWOpp.exe.config
+C:\Users\Asheley\source\repos\homework\HWOpp\HWOpp\bin\Debug\HWOpp.exe
+C:\Users\Asheley\source\repos\homework\HWOpp\HWOpp\bin\Debug\HWOpp.pdb
+C:\Users\Asheley\source\repos\homework\HWOpp\HWOpp\obj\Debug\HWOpp.csprojAssemblyReference.cache
+C:\Users\Asheley\source\repos\homework\HWOpp\HWOpp\obj\Debug\HWOpp.csproj.CoreCompileInputs.cache
+C:\Users\Asheley\source\repos\homework\HWOpp\HWOpp\obj\Debug\HWOpp.exe
+C:\Users\Asheley\source\repos\homework\HWOpp\HWOpp\obj\Debug\HWOpp.pdb

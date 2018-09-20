@@ -1,0 +1,7 @@
+C:\Users\Asheley\source\repos\homework\HWCircle\HWCircle\obj\Debug\HWCircle.csprojAssemblyReference.cache
+C:\Users\Asheley\source\repos\homework\HWCircle\HWCircle\obj\Debug\HWCircle.csproj.CoreCompileInputs.cache
+C:\Users\Asheley\source\repos\homework\HWCircle\HWCircle\bin\Debug\HWCircle.exe.config
+C:\Users\Asheley\source\repos\homework\HWCircle\HWCircle\bin\Debug\HWCircle.exe
+C:\Users\Asheley\source\repos\homework\HWCircle\HWCircle\bin\Debug\HWCircle.pdb
+C:\Users\Asheley\source\repos\homework\HWCircle\HWCircle\obj\Debug\HWCircle.exe
+C:\Users\Asheley\source\repos\homework\HWCircle\HWCircle\obj\Debug\HWCircle.pdb

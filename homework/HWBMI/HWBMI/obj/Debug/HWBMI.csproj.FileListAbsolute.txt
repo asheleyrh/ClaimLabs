@@ -1,0 +1,7 @@
+C:\Users\Asheley\source\repos\homework\HWBMI\HWBMI\bin\Debug\HWBMI.exe.config
+C:\Users\Asheley\source\repos\homework\HWBMI\HWBMI\bin\Debug\HWBMI.exe
+C:\Users\Asheley\source\repos\homework\HWBMI\HWBMI\bin\Debug\HWBMI.pdb
+C:\Users\Asheley\source\repos\homework\HWBMI\HWBMI\obj\Debug\HWBMI.csprojAssemblyReference.cache
+C:\Users\Asheley\source\repos\homework\HWBMI\HWBMI\obj\Debug\HWBMI.csproj.CoreCompileInputs.cache
+C:\Users\Asheley\source\repos\homework\HWBMI\HWBMI\obj\Debug\HWBMI.exe
+C:\Users\Asheley\source\repos\homework\HWBMI\HWBMI\obj\Debug\HWBMI.pdb

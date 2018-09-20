@@ -1,0 +1,7 @@
+C:\Users\Asheley\source\repos\homework\HWInput\HWInput\bin\Debug\HWInput.exe.config
+C:\Users\Asheley\source\repos\homework\HWInput\HWInput\bin\Debug\HWInput.exe
+C:\Users\Asheley\source\repos\homework\HWInput\HWInput\bin\Debug\HWInput.pdb
+C:\Users\Asheley\source\repos\homework\HWInput\HWInput\obj\Debug\HWInput.csprojAssemblyReference.cache
+C:\Users\Asheley\source\repos\homework\HWInput\HWInput\obj\Debug\HWInput.csproj.CoreCompileInputs.cache
+C:\Users\Asheley\source\repos\homework\HWInput\HWInput\obj\Debug\HWInput.exe
+C:\Users\Asheley\source\repos\homework\HWInput\HWInput\obj\Debug\HWInput.pdb

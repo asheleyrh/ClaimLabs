@@ -1,0 +1,7 @@
+C:\Users\Asheley\source\repos\homework\HWTriangle\HWTriangle\bin\Debug\HWTriangle.exe.config
+C:\Users\Asheley\source\repos\homework\HWTriangle\HWTriangle\bin\Debug\HWTriangle.exe
+C:\Users\Asheley\source\repos\homework\HWTriangle\HWTriangle\bin\Debug\HWTriangle.pdb
+C:\Users\Asheley\source\repos\homework\HWTriangle\HWTriangle\obj\Debug\HWTriangle.csprojAssemblyReference.cache
+C:\Users\Asheley\source\repos\homework\HWTriangle\HWTriangle\obj\Debug\HWTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Asheley\source\repos\homework\HWTriangle\HWTriangle\obj\Debug\HWTriangle.exe
+C:\Users\Asheley\source\repos\homework\HWTriangle\HWTriangle\obj\Debug\HWTriangle.pdb
